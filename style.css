@@ -1,0 +1,101 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  color: #515076;
+  max-width: 1920px;
+
+
+}
+
+
+.title {
+  font-size: 70px;
+  line-height: 78px;
+  font-weight: 400;
+  margin-top: 220px;
+  margin-left: 217px;
+  margin-right: 217px;
+  margin-bottom: 110px;
+  text-align: center;
+}
+
+
+.prodact-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  background-color: #F7F7FA;
+  width: 340px;
+  height: 573px;
+  padding: 25px;
+  margin-left: 5px;
+  margin-top: 45px;
+  list-style-type: none;
+}
+
+.card-image {
+  width: 290px;
+  height: 245px;
+  margin: 0 auto;
+  display: block;
+
+}
+
+.card-normal {
+  color: #A5A3B9;
+  font-size: 12px;
+  line-height: 24px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 25px;
+
+}
+
+.card-title {
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 700;
+  margin-bottom: 5px;
+  margin-left: 25px;
+}
+
+
+
+.description {
+  line-height: 18px;
+  margin-right: 28px;
+  margin-bottom: 15px;
+  margin-left: 25px;
+}
+
+.compound {
+  line-height: 18px;
+  margin-bottom: 5px;
+  margin-left: 25px;
+
+}
+
+.card-list {
+  line-height: 18px;
+  margin: 5px;
+  list-style-type: circle;
+}
+
+.card-price {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  margin-top: 25px;
+  margin-right: 161px;
+  margin-left: 25px;
+}
+
+.card-price-2 {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+}
